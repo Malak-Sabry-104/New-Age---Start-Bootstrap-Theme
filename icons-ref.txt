@@ -1,0 +1,8 @@
+Mobile phone:
+<i class="fa-solid fa-mobile-screen-button"></i>
+Camera:
+<i class="fa-regular fa-camera"></i>
+Gift:
+<i class="fa-solid fa-gift"></i>
+Badge Check:
+<i class="fa-regular fa-badge-check"></i>

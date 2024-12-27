@@ -1,0 +1,82 @@
+.navbar {
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.284);
+}
+#sec-1 {
+  margin: 7rem 0 !important;
+}
+.header {
+  font-size: 70px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bolder;
+  margin: 0 0 0 0 !important;
+  letter-spacing: 2px;
+}
+.badges {
+  width: 700px;
+  margin: 40px 0;
+}
+.bg-color {
+  background-image: linear-gradient(to right, #3c32ee, #981ce3);
+  padding: 4rem;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 40px;
+  font-weight: bold;
+}
+.icon {
+  background-image: linear-gradient(to right, #3c32ee, #981ce3);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: fit-content;
+}
+#sec-2 {
+  margin: 5rem 0 !important;
+}
+.grey-sec {
+  /* padding: 7rem 0 10rem 0 !important; */
+  /* we can't reset the rigth and the left padding to 0 cuz of the px-12 which container takes it to fix row problem */
+  padding-top: 7rem;
+  padding-bottom: 10rem;
+  background-color: rgba(128, 128, 128, 0.902) !important;
+}
+.grey-sec h1 {
+  padding: 0 !important;
+  margin: 0 0 20px 0 !important;
+  font-size: 70px;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+.grey-sec button {
+  border: 2px solid;
+  border-radius: 20px;
+  padding: 15px 30px !important;
+  background: transparent !important;
+  color: white !important;
+}
+.bg-sec4 {
+  background-image: linear-gradient(to right, #3c32ee, #981ce3);
+}
+#sec-4 .inner {
+  padding: 4rem 0 !important;
+  color: white !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+footer p {
+  margin: 0 !important;
+}
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 4rem 0;
+}
+.anchors a {
+  text-decoration: none;
+}
+.anchors a:hover {
+  text-decoration: underline;
+}
